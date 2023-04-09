@@ -39,3 +39,9 @@ form {
   margin-right: 15px;
   cursor: pointer;
 }
+
+.newInputContainer {
+  position: absolute;
+  margin-top: 80px;
+  left: 30%;
+}
