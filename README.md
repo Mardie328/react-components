@@ -1,3 +1,3 @@
 # react-components
 
-live preview link->  mardie-react-app.netlify.app
+live preview link->  https://mardie-react-app.netlify.app/
