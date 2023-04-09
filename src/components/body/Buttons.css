@@ -1,0 +1,16 @@
+.button-container {
+  display: block;
+  flex-direction: row;
+  margin: 20px 0px;
+  padding: 10px;
+}
+
+button {
+  border: #dcdedf;
+  margin-right: 10px;
+  background-color: #f8f9fa;
+  padding: 11px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}

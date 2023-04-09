@@ -1,0 +1,20 @@
+.top-div {
+  display: flex;
+}
+
+.languages-container {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 10px;
+}
+
+.languages-link {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #1a0dbe;
+  font-size: 0.8rem;
+}
+
+.languages-link:hover {
+  text-decoration: underline;
+}

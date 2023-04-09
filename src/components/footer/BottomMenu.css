@@ -1,0 +1,36 @@
+.bottomMenu {
+  display: flex;
+  background-color: #f2f2f2;
+  height: 20px;
+  justify-content: space-between;
+  padding: 14px 35px;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+.bottomMenuLink,
+.bottomMenuText {
+  color: #70757a;
+  font-size: 0.9rem;
+  margin-right: 25px;
+  text-decoration: none;
+}
+
+.bottomMenuLink:hover,
+.bottomMenuText:hover {
+  text-decoration: underline;
+}
+
+.bottomMenuText {
+  margin-left: -200px;
+}
+
+.leaf-cont {
+  display: flex;
+  align-items: center;
+}
+
+.leaf {
+  height: 14px;
+  margin-right: 4px;
+}
