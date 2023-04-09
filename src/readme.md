@@ -2,14 +2,14 @@ Components breakdown:
 
 - App
   - Header
-    =>MenuItem
-    =>AppsIcon
-    =>AvatarIcon
+     - MenuItem
+     - AppsIcon
+     - AvatarIcon
   - Body
-    =>GoogleLogo
-    =>SearchBar
-    =>Buttons
-    =>Languages
-  - Footer
-    =>Country
-    =>BottomMenu
+     - GoogleLogo
+     - SearchBar
+     - Buttons
+     - Languages
+   - Footer
+     - Country
+     - BottomMenu
